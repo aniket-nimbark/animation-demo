@@ -9,7 +9,7 @@ Here are the steps to run the project.
 Clone the Project
 
 ```bash
-  git clone https://github.com/aniket-nimbark/animation-login-demo
+  git clone https://github.com/aniket-nimbark/animation-demo.git
 ```
 
 Go to the project directory
